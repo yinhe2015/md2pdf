@@ -16,7 +16,7 @@
 需要安装 python3 以及以下依赖：
 
 ```bash
-pip install markdown weasyprint
+pip install -r requirements.txt
 ```
 
 ## 使用方法
